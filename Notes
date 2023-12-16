@@ -1,0 +1,7 @@
+All the React Hook Used so far :
+
+1) useState : 
+        used to update the state of a variable at present at multiple or singular location in UI
+        Ex.   const [length , setLength] = useState(0)
+        useState returns an array of varible and a function that is changing the value of that variable 
+        '(0)' - is the initial value of the length variable
